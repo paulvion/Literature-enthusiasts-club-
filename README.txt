@@ -1,10 +1,14 @@
 
 Literature Enthusiasts Club Platform
 
-To run this project:
-1. Ensure you have Node.js installed.
-2. Place this in a React project (e.g., created with create-react-app).
-3. Replace index.js with the content provided.
-4. Add styles and assets as needed.
+Files included:
+- index.js: Main React component
+- style.css: Basic styling
+- logo.png: Placeholder for the club's logo
 
-Created with ❤️ by Mumbere and team.
+How to use:
+1. Place these files into a React project (e.g., created with create-react-app).
+2. Replace the contents as needed.
+3. Build something dope!
+
+Created by Mumbere and Team.
